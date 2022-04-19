@@ -13,17 +13,17 @@
     "@sveltejs/adapter-auto": "next",
     "@sveltejs/adapter-static": "next",
     "@sveltejs/kit": "next",
-    "autoprefixer": "^10.4.2",
-    "eslint": "^8.8.0",
-    "eslint-config-prettier": "^8.3.0",
-    "eslint-plugin-svelte3": "^3.4.0",
-    "prettier": "^2.5.1",
-    "prettier-plugin-svelte": "^2.6.0",
-    "svelte": "^3.46.4",
-    "tailwindcss": "^3.0.18"
+    "autoprefixer": "^10.4.4",
+    "eslint": "^8.13.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-svelte3": "^3.4.1",
+    "prettier": "^2.6.2",
+    "prettier-plugin-svelte": "^2.7.0",
+    "svelte": "^3.47.0",
+    "tailwindcss": "^3.0.24"
   },
   "type": "module",
   "dependencies": {
-    "postcss": "^8.4.6"
+    "postcss": "^8.4.12"
   }
 }
