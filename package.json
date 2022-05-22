@@ -14,7 +14,7 @@
     "@sveltejs/adapter-static": "next",
     "@sveltejs/kit": "next",
     "autoprefixer": "^10.4.7",
-    "eslint": "^8.15.0",
+    "eslint": "^8.16.0",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-svelte3": "^3.4.1",
     "prettier": "^2.6.2",
@@ -24,6 +24,6 @@
   },
   "type": "module",
   "dependencies": {
-    "postcss": "^8.4.13"
+    "postcss": "^8.4.14"
   }
 }
